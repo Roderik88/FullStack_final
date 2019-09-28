@@ -1,0 +1,5 @@
+current directory: /home/rodrigo/Desktop/FullStack_final/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/share/rvm/rubies/ruby-2.6.3/bin/ruby mkrf_conf.rb
+
+current directory: /home/rodrigo/Desktop/FullStack_final/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/share/rvm/rubies/ruby-2.6.3/bin/ruby -rrubygems /home/rodrigo/Desktop/FullStack_final/vendor/bundle/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/home/rodrigo/Desktop/FullStack_final/vendor/bundle/extensions/x86_64-linux/2.6.0/childprocess-2.0.0 RUBYLIBDIR\=/home/rodrigo/Desktop/FullStack_final/vendor/bundle/extensions/x86_64-linux/2.6.0/childprocess-2.0.0
